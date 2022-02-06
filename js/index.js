@@ -1,4 +1,4 @@
-(function () {
+(function(){
   function buildQuiz() {
     const output = [];
     myQuestions.forEach(
