@@ -1,10 +1,10 @@
 # Table of content
-[1.Description](#Description)
-[2.Challenges and upgrades](#Challenges-and-upgrades)
-[3.Technologies](#Technologies)
-[4.Installation](#Installation)
-[5.License](#license)
-[6.Image](#img)
++[1.Description](#Description)
++[2.Challenges and upgrades](#Challenges-and-upgrades)
++[3.Technologies](#Technologies)
++[4.Installation](#Installation)
++[5.License](#license)
++[6.Image](#img)
 
 <a name="Description"></a>
 ## Description
