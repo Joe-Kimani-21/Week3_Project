@@ -1,13 +1,11 @@
 body{
 	font-size: 20px;
 	font-family: sans-serif;
-
 	background-color: #A7DAF6;
 	width: 550px;
 }
 
 html{
-	background-color: white;
 	background-color: white;
 }
 .question{
@@ -26,7 +24,7 @@ html{
 	background-color: #193DFA;
 	color: white;
 	border: 0px;
-	border-radius: 3px;
+	border-radius: 33px;
 	padding: 20px;
 	padding-left: 30px;
 	padding-top: 30px;
