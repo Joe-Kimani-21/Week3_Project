@@ -45,7 +45,7 @@
       }
     });
 
-    resultsContainer.innerHTML = `${numCorrect} out of ${myQuestions.length}`;
+    resultsContainer.innerHTML = `You're score is: ${numCorrect}`;
   }
 
   const quizContainer = document.getElementById('Questionnaire');
