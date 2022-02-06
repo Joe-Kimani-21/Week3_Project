@@ -24,7 +24,7 @@ html{
 	background-color: #193DFA;
 	color: white;
 	border: 0px;
-	border-radius: 33px;
+	border-radius: 20px;
 	padding: 20px;
 	padding-left: 30px;
 	padding-top: 30px;
@@ -33,6 +33,7 @@ html{
 	left: 370px;
 	position: absolute;
 	bottom: -430px;
+	width: 180px;
 }
 
 #Questionnaire{
