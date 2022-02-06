@@ -20,8 +20,8 @@ They also build the basics of web design and are quit handy as junior developer.
 
 Lack of enough content to include in the project, although the project objectives were met.
 Diversify my content with time.
-Limited exposure in development hence designed a basic HTML, CSS web page and js .
-With the continued software development training, i intend to diversify on the layouts and general design.
+Limited exposure in development hence designed a basic HTML, CSS web page and basic js .
+With the continued software development training, i intend to diversify on the layouts and general usability.
 
 <a name="Technologies"></a>
 ## Technologies
@@ -31,6 +31,9 @@ Project is created with;
 *HTML
 
 *CSS
+
+*Javascript
+
 <a name="Installation"></a>
 ## Installation
 
